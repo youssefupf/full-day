@@ -4,7 +4,7 @@ from random import randint, choice, random
 from datetime import datetime, timedelta
 
 # Définir les dates de début et de fin
-start_date = datetime(2024, 12, 28)
+start_date = datetime(2022, 12, 28)
 end_date = datetime(2025, 5, 9)
 
 # Liste de messages de commit aléatoires
